@@ -18,7 +18,7 @@ This app is in active development
 4. Click play button to run.
 
 
-[Privacy Policy](cherrio-llc.github.io/BuildX/privacy-policy).
+[Privacy Policy](cherrio-llc.github.io/BuildX).
 
 
 
