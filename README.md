@@ -19,7 +19,7 @@ This app is in active development
 
 
 [Privacy Policy](https://github.com/Cherrio-LLC/BuildX/blob/master/privacy_policy.md)
-
+[Terms And Conditions](https://github.com/Cherrio-LLC/BuildX/blob/master/terms_and_conditions.md)
 
 
 
