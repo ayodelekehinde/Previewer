@@ -1,6 +1,6 @@
 layout: page
 title: "Privacy Policy"
-permalink: cherrio-llc.github.io/BuildX
+permalink: /privacy-policy/
 ## Privacy Policy
 
 Cherrio LLC built the BuildX app as an Ad Supported app. This SERVICE is provided by Cherrio LLC at no cost and is intended for use as is.
