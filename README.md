@@ -1,5 +1,5 @@
 # BuildX
-Android app compiler
+Android app compiler / Sketchware client
 
 
 
